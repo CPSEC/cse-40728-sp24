@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://CPSEC.github.io/sitemap.xml
+Sitemap: https://CPSEC.github.io/cse40728-sp24//sitemap.xml
